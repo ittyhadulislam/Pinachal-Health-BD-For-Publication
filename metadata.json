@@ -1,0 +1,6 @@
+{
+  "name": "Pinnacle Healthcare & Diagnostic Center",
+  "description": "Complete Healthcare Under One Roof — Advanced diagnostic laboratory, specialized doctor chambers, modern dental care, and digital patient services in Dhaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
